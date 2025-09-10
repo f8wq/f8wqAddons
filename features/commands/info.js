@@ -19,7 +19,7 @@ register("chat", (event) => {
 
 const discordLink = "https://discord.gg/#";
 const youtubeLink = "https://www.youtube.com/@f8wq/videos";
-const githubLink = "https://github.com/#";
+const githubLink = "https://github.com/https://github.com/f8wq/f8wqAddons";
 
 const discordText = new TextComponent("                     §9§lDiscord")
     .setClick("open_url", discordLink) 
