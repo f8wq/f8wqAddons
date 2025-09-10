@@ -1,0 +1,7 @@
+{
+    "petAnnouncer": {
+        "sendMessage": true,
+        "playSound": true,
+        "showTitle": true
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "f8wqAddons",
+  "creator": "f8wq",
+  "description": "small qol mod for hypixel skyblock. work in progress",
+  "version": "1.0.1",
+  "entry": "index.js",
+  "requires": [
+        "PogData"
+    ]
+}
