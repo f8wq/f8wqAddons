@@ -13,8 +13,8 @@ jobs:
         with:
           webhook_url: ${{ secrets.WEBHOOK_URL }}
           color: "2105893"
-          username: "Release Changelog"
-          avatar_url: "https://cdn.discordapp.com/avatars/487431320314576937/bd64361e4ba6313d561d54e78c9e7171.png"
-          content: "||@everyone||"
+          username: "Releases"
+          avatar_url: "https://cdn.discordapp.com/attachments/1415140810084847747/1415140845664997447/skinmc-avatar.png?ex=68c2201d&is=68c0ce9d&hm=64767ae26f8c5696c611fd1496bd24a6511913504e15b6f1bdc40e335051b75a&"
+          content: "@release ping"
           footer_title: "Changelog"
           reduce_headings: true
